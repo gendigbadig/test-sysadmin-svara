@@ -47,7 +47,7 @@ Ubuntu 18.04
 **Batas Pengerjaan**: 30 menit
 
 **Langkah**:
-1. Buat direktori /home/svara/soal
+1. Buat direktori /home/ubuntu/soal
 2. Masuk ke direktori tersebut, lalu buat shell script dengan nama **nomorurut**.sh
 3. Isi shell script dengan fungsi yang menghasilkan output yang diharapkan:
    - Terbentuk 10 file txt yang diberi nama: **nomorurut** * 10 + {0-9}

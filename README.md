@@ -28,7 +28,7 @@ Ubuntu 18.04
 6. Simpan direktori `app` di folder ini kedalam root directory web server yang dipilih (bisa menggunakan `scp` atau menggunakan cara lain)
 7. Didalam direktori `app` terdapat file `config.php`. Konfigurasi parameter username dan password sesuai dengan user yang dibuat di MariaDB sebelumnya
 8. Lakukan instalasi/inisiasi database aplikasi dengan cara akses ke alamat _http://**nomorurut**-test.awscloud.svara.fm/install.php_. Pastikan di langkah ini tidak ada pesan error seperti `General error: ` dan sebagainya. Jika muncul error, pastikan kembali langkah-langkah sebelumnya sudah dilakukan dengan benar.
-9. Jika sudah selesai, akses alamat _http://**nomorurut**-test.awscloud.svara.fm_ dan coba membuat user baru sesuai dengan data diri. 
+9. Jika sudah selesai, akses alamat _http://**nomorurut**-test.awscloud.svara.fm/public_ dan coba membuat user baru sesuai dengan data diri. 
 10. Melapor bahwa sudah selesai mengerjakan 
 
 **Tugas Tambahan**: 

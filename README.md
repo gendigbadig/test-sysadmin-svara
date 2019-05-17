@@ -1,17 +1,17 @@
 # Soal Tes Administrasi Server SVARA
 
 ## SSH
-- Hostname: **nomorurut**-test.svara.fm
-- Username: svara
+- Hostname: **nomorurut**-test.awscloud.svara.fm
+- Username: ubuntu
 - Login tanpa password, menggunakan PEM key yang sudah disediakan
 
 ## OS: 
-Ubuntu 16.04/18.04
+Ubuntu 18.04
 
 ---
 
 ## Tugas: 
-**Goal**: Berhasil melakukan deployment aplikasi web berbasis php dan mysql sederhana yang bisa diakses melalui alamat _**nomorurut**-test.svara.fm_
+**Goal**: Berhasil melakukan deployment aplikasi web berbasis php dan mysql sederhana yang bisa diakses melalui alamat _**nomorurut**-test.awscloud.svara.fm_
 
 **Target Pengerjaan**: 90 menit
 
@@ -27,12 +27,12 @@ Ubuntu 16.04/18.04
 5. Buat database `svaraapp` dan beri akses ke user `svara` supaya bisa baca/tulis ke database tersebut
 6. Simpan direktori `app` di folder ini kedalam root directory web server yang dipilih (bisa menggunakan `scp` atau menggunakan cara lain)
 7. Didalam direktori `app` terdapat file `config.php`. Konfigurasi parameter username dan password sesuai dengan user yang dibuat di MariaDB sebelumnya
-8. Lakukan instalasi/inisiasi database aplikasi dengan cara akses ke alamat _http://**nomorurut**-test.svara.fm/install.php_. Pastikan di langkah ini tidak ada pesan error seperti `General error: ` dan sebagainya. Jika muncul error, pastikan kembali langkah-langkah sebelumnya sudah dilakukan dengan benar.
-9. Jika sudah selesai, akses alamat _http://**nomorurut**-test.svara.fm_ dan coba membuat user baru sesuai dengan data diri. 
+8. Lakukan instalasi/inisiasi database aplikasi dengan cara akses ke alamat _http://**nomorurut**-test.awscloud.svara.fm/install.php_. Pastikan di langkah ini tidak ada pesan error seperti `General error: ` dan sebagainya. Jika muncul error, pastikan kembali langkah-langkah sebelumnya sudah dilakukan dengan benar.
+9. Jika sudah selesai, akses alamat _http://**nomorurut**-test.awscloud.svara.fm_ dan coba membuat user baru sesuai dengan data diri. 
 10. Melapor bahwa sudah selesai mengerjakan 
 
 **Tugas Tambahan**: 
-1. Implementasikan HTTPS di web server pilihan anda menggunakan Let's Encrypt SSL dengan cara yang sesuai dengan web server yang dipilih, supaya alamat url menjadi _https://**nomorurut**-test.svara.fm_
+1. Implementasikan HTTPS di web server pilihan anda menggunakan Let's Encrypt SSL dengan cara yang sesuai dengan web server yang dipilih, supaya alamat url menjadi _https://**nomorurut**-test.awscloud.svara.fm_
 
 **Catatan**: 
 - Jika memilih nginx, mampu mengimplementasikan https menggunakan let's encrypt, dan mampu mengerjakan dengan cepat sesuai target waktu akan mendapat nilai plus, tapi goalnya adalah keberhasilan

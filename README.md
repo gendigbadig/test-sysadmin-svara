@@ -30,7 +30,7 @@ Ubuntu 18.04
 10. Melapor bahwa sudah selesai mengerjakan 
 
 **Tugas Tambahan**: 
-1. Implementasikan HTTPS di web server pilihan anda menggunakan Let's Encrypt SSL dengan cara yang sesuai dengan web server yang dipilih, supaya alamat url menjadi _https://**nomorurut**-test.awscloud.svara.fm_
+1. Implementasikan HTTPS di web server pilihan anda menggunakan Certbot/Let's Encrypt SSL dengan cara yang sesuai dengan web server yang dipilih, supaya alamat url menjadi _https://**nomorurut**-test.awscloud.svara.fm_
 
 **Catatan**: 
 - Jika memilih nginx, mampu mengimplementasikan https menggunakan let's encrypt, dan mampu mengerjakan dengan cepat sesuai target waktu akan mendapat nilai plus, tapi goalnya adalah keberhasilan

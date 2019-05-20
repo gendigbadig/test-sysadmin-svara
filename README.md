@@ -13,9 +13,7 @@ Ubuntu 18.04
 ## Tugas: 
 **Goal**: Berhasil melakukan deployment aplikasi web berbasis php dan mysql sederhana yang bisa diakses melalui alamat _**nomorurut**-test.awscloud.svara.fm_
 
-**Target Pengerjaan**: 90 menit
-
-**Batas Pengerjaan**: 120 menit
+**Batas Pengerjaan**: 90 menit
 
 **Langkah**: 
 1. Install web server (pilihan: apache webserver/nginx) 
@@ -42,9 +40,7 @@ Ubuntu 18.04
 
 ## Soal: 
 
-**Target Pengerjaan**: 15 menit
-
-**Batas Pengerjaan**: 30 menit
+**Batas Pengerjaan**: 15 menit
 
 **Langkah**:
 1. Buat direktori /home/ubuntu/soal
